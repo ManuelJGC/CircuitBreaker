@@ -7,12 +7,13 @@ public class ConstructorCircuit {
     private Integer limiteerror;
     private Integer nintentosmax;
     private int nintentosactual;
-    private String estado;
+}
+
     
-    if (this.nintentosfallidos>=)
+    if (this.nintentosfallidos>=0)
     for (this.nintentosactual=1; this.nintentosactual<this.nintentosmax; ++this.nintentosactual){
         
-    };
+    }
         
     
-}
+
